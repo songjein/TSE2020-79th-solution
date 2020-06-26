@@ -1,6 +1,9 @@
 ## 2020 Tweet Setiment Extraction 79th solution 
 final LB score: .718
 
+## pretrained model
+- deepset/roberta-base-squad2
+
 ## Training
 - ./script/start_train 
 
