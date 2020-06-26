@@ -1,0 +1,3 @@
+# python pseudo_labeling.py --gpu_id 1 --path='/DATA/image-search/kgg/best/normal_594s_128t_16b_3e-5lr_roberta/'
+
+python pseudo_labeling.py --gpu_id 1 --path='/DATA/image-search/kgg/best/seq_attn_7129_higher_lr_best/'

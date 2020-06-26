@@ -1,0 +1,2 @@
+# python train.py --gpu_id 1  --seed_list='594' --input='train.csv'
+python train_no_split_es.py --gpu_id 1 --seed_list='594' --input='train.csv'

@@ -1,0 +1,1 @@
+python eval.py --gpu_id 1 --path='/DATA/image-search/kgg/best/reproduce_0719/'
