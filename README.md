@@ -1,13 +1,13 @@
 ## 2020 Tweet Setiment Extraction 79th solution 
 final LB score: .718
 
-## pretrained model
+## Pretrained model
 - deepset/roberta-base-squad2
 
 ## Training
 - ./script/start_train 
 
-## pseudo labeling
+## Pseudo labeling
 1. filter sentiment 140 by using ./notebooks/mw_sent_aug.ipynb
     - high confidence + text blob score 
 2. ./scripts/start_pseudo
